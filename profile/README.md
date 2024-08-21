@@ -14,6 +14,16 @@ https://github.com/PNNL-CIM-Tools/CIM-Graph
 * Language: Python
 * OS: Windows, Linux, MacOS
 
+### CIM-Loader
+
+Python library for bulk upload and download of CIM models from common databases, such as Blazegraph, Neo4J, and MySQL.
+
+https://github.com/PNNL-CIM-Tools/CIM-Loader
+
+* CIM Profiles: CIM15-18
+* Language: Python
+* OS: Windows, Linux, MacOS
+
 
 ### CIMHub
 
@@ -36,7 +46,9 @@ https://github.com/pnnl/UUDEX
 
 ### CIM Training & Tutorials:
 
-Enabling Data Exchange using CIM: https://www.pnnl.gov/main/publications/external/technical_reports/PNNL-32679.pdf
+Enabling Data Exchange using CIM: https://doi.org/10.2172/1922947
+
+A Power Application Developer's Guide to CIM: https://doi.org/10.2172/2007843
 
 Demystifying CIM Part 1 Slide Deck 
 
